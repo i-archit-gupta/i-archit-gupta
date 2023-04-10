@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 # 💫 About Me:
-🔭I'm currently learning Web Development and Cloud Computing.<br>💭Ask me about Cybersecurity, Cloud computing.<br>🧑‍💻Connect with me: https://linktr.ee/iarchitgupta<br>📩Reach me via: guptarchit2k17@gmail.com
+🔭I'm currently learning Web Development and Machine Learning.<br>💭Ask me about Cloud computing.<br>🧑‍💻Connect with me: https://linktr.ee/iarchitgupta<br>📩Reach me via: guptarchit2k17@gmail.com
 
 
 ## 🌐 Socials:
